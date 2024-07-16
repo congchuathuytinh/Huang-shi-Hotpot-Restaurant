@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+.top-bar
+{
+	
+	height: 50px;
+	line-height: 50px;
+}
+.top-bar a
+{
+	color: white;
+}
+.top-bar a:hover
+{
+	color: #FFC113;
+}
+
+.navbar .navbar-nav .nav-item .nav-link
+{
+	padding: 10px 20px;
+	color: #881c18;
+	border-radius: 50px;
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover
+{
+	
+	color: #e7ab36; background-color: gainsboro;
+}
+
+main
+
+{
+	min-height: 500px;
+}
+footer
+{
+	min-height: 200px;
+}
+.gach_chan
+{
+	border-bottom: 2px solid #e7ab36;
+}
+footer .navbar-nav .nav-item .nav-link:hover
+{
+	
+	color: #e7ab36; 
+}
+footer h4
+{
+	font-size: 17px 
+}
+#service a
+{
+	text-decoration: none;
+	color: #881c18;
+}
+#service a:hover
+{
+	
+	color: #e7ab36;
+}
+#why2
+{
+	width: 100%;
+	min-height: 500px;
+	background-image: url("../images/slidewhy.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center center;
+}
+.bo-goc
+
+{
+	border-radius: 20px;
+}
+.containerkhonggian
+{
+	background-image: url("../images/ớt CHÙM.png");
+	min-width: 100%;
+	min-height: 69px;
+		
+}
+.dropdown-menu .dropdown-item 
+{
+	padding: 10px;
+	border-radius: 20px;
+}
+.dropdown-menu .dropdown-item:hover 
+
+{
+	color: #e7ab36; background-color: gainsboro;
+}
